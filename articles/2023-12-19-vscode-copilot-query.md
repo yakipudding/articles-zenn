@@ -4,6 +4,7 @@ emoji: "🤞"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["VSCode", "Copilot", "SQL"]
 published: false
+publication_name: "layerx"
 ---
 
 この記事は[Visual Studio Code Advent Calendar 2023](https://qiita.com/advent-calendar/2023/vscode) 19日目の記事です。
