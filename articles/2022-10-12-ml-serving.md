@@ -3,7 +3,7 @@ title: "MLサービスのServingって大変だよねという話"
 emoji: "😒"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["ML"]
-published: true
+published: false
 ---
 
 先日のカジュアル面談で盛り上がった話
