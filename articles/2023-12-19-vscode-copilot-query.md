@@ -3,7 +3,7 @@ title: "VSCode GitHub Copilotでいい感じのクエリを作ってもらおう
 emoji: "🤞"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["VSCode", "Copilot", "SQL"]
-published: false
+published: true
 publication_name: "layerx"
 ---
 
