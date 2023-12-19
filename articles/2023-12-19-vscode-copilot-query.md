@@ -116,7 +116,6 @@ CREATE TABLE sub_task_user_links (
 
 ```
 /*
-以下のSQLを作成して
 ProjectAに紐づいた未消化タスク一覧
 */
 ```
