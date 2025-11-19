@@ -1,5 +1,5 @@
 ---
-title: "AI駆動開発になると、よりドメイン知識が大事になる"
+title: "AI駆動開発によって、ドメイン知識の重要性がより増した"
 emoji: "👌"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Advent calendar", "AI駆動開発", "弥生"]
