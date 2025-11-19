@@ -6,7 +6,7 @@ topics: ["Advent calendar", "AI駆動開発", "弥生"]
 published: false
 ---
 
-この記事は[弥生アドベントカレンダー2025](https://qiita.com/advent-calendar/2025/yayoi) 1日目の記事です。
+この記事は [弥生アドベントカレンダー2025](https://qiita.com/advent-calendar/2025/yayoi) 1日目の記事です。
 
 こんにちは！弥生の白井と申します。
 気づけば今年もあっという間で、もうアドベントカレンダーの季節ですね。
