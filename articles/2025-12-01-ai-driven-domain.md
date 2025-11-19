@@ -2,7 +2,7 @@
 title: "AI駆動開発になると、よりドメイン知識が大事になる"
 emoji: "👌"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: []
+topics: ["Advent calendar", "AI駆動開発", "弥生"]
 published: false
 ---
 
