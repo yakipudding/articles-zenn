@@ -3,7 +3,7 @@ title: "AI駆動開発によって、ドメイン知識の重要性がより増�
 emoji: "👌"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Advent calendar", "AI駆動開発", "弥生"]
-published: false
+published: true
 ---
 
 この記事は [弥生アドベントカレンダー2025](https://qiita.com/advent-calendar/2025/yayoi) 1日目の記事です。
